@@ -1,0 +1,12 @@
+/Users/francisrafal/Exercism/haskell/lucians-luscious-lasagna/test/Tests.hs:
+  hash: b4dce38cf0afc312707bc1660b21d34de5396413e5e118f124b92284615339d5
+? /Users/francisrafal/Exercism/haskell/lucians-luscious-lasagna/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/test/autogen/Paths_lucians_luscious_lasagna.hs
+: hash: 19f2c48c7ca08fd2aec8a849e3d0d1b77d0d2c8e1b2a6236e2a4ce26a6498293
+? /Users/francisrafal/Exercism/haskell/lucians-luscious-lasagna/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/test/autogen/cabal_macros.h
+: hash: 0477f9571bd94bf1457582d42ec72aa1e3f85fc0b1f71015a57f6d7ba28b80de
+/Users/francisrafal/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+/Users/francisrafal/Exercism/haskell/lucians-luscious-lasagna/package.yaml:
+  hash: f289fc428522fb2a3f75b556978c54b0df75ba8b73b6142802ea9ddd683ce53e
+/Users/francisrafal/Exercism/haskell/lucians-luscious-lasagna/lucians-luscious-lasagna.cabal:
+  hash: 3f70375188827eccb488b422437b426197947a3abefabac8f8de63ce2a92cf2a
